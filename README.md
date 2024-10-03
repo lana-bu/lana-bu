@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm a sophomore at the University of Michigan-Dearborn
+- I'm majoring in Software Engineering
 <!--
 **lana-bu/lana-bu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
