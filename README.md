@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Lana
 - I'm a junior at the University of Michigan-Dearborn
 - I'm majoring in Software Engineering
+- I have experience coding in C++, Python, and Java
+- I am currently learning about web development with HTML, CSS, and Javascript
 <!--
 **lana-bu/lana-bu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
